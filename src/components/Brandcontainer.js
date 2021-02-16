@@ -1,12 +1,9 @@
 import React from 'react'
 
-export const Footer = () => {
+export const Brandcontainer = () => {
     return (
         <div>
-            <h1>footer</h1>
+            <h1>brand container</h1>
         </div>
     )
 }
-
-
-
